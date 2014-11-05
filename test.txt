@@ -1,0 +1,1 @@
+I'm just trying to add a file to learn how git work
